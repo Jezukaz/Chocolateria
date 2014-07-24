@@ -5,7 +5,7 @@
         <title></title>
     </head>
     <body>
-        <table><tr><td>p</td></tr></table>
+        <table><tr><td>prueba de github</td></tr></table>
         <?php
         // put your code here
         ?>
