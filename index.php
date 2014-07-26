@@ -5,7 +5,23 @@
         <title></title>
     </head>
     <body>
-        <table><tr><td>prueba de github</td></tr></table>
+        <h1>Prueba de github</h1>
+        <form action="validar.php" method="post">
+            <table>
+                <tr>
+                    <td>Usuario:</td>
+                    <td><input type="text" name="txtUsuario"/></td>
+                </tr>
+                <tr>
+                    <td>Clave:</td>
+                    <td><input type="password" name="txtPassword"/></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button>Enviar</button></td>
+                </tr>
+            </table>
+        </form>
         <?php
         // put your code here
         ?>
